@@ -9,8 +9,8 @@
 
 ### 🚧 About Me
 
-Profile under construction. Stay tuned! ✨
-簡介施工中
+Profile under construction. Stay tuned! ✨  
+簡介施工中  
 バグではありません。仕様です。（工事中）
 
 <!--
