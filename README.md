@@ -11,6 +11,7 @@
 
 Profile under construction. Stay tuned! ✨
 簡介施工中
+バグではありません。仕様です。（工事中）
 
 <!--
 **kuku0508/kuku0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
