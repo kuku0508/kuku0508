@@ -1,29 +1,54 @@
-## Hi there 👋
+繁體中文 ｜ [English](./README.en.md) ｜ [日本語](./README.ja.md)
 
-📊 Statistics & Data Science Graduate | Data Analysis, Statistical Modeling & Reproducible Research
+# 嗨，我是 kuku 👋
 
-### 🌐 Links & Contact
+**統計與資料科學系畢業生｜資料分析・統計建模・可重現研究**
 
-- 📫 **Email:** [Email me](mailto:kuku050812@gmail.com)  (`kuku050812@gmail.com`)
-- 🌐 **Website:** [Visit my website](https://kuku0508.github.io)  (`https://kuku0508.github.io`)
+我於 2026 年 7 月畢業於淡江大學統計與資料科學學系。
 
-### 🚧 About Me
+我喜歡從複雜的資料中整理出清楚、可解釋且能支援決策的資訊，關注的領域包括資料分析、統計建模、地理空間分析、網路分析與可重現研究。
 
-Profile under construction. Stay tuned! ✨  
-簡介施工中  
-バグではありません。仕様です。（工事中）
+目前正在尋找台灣的**資料分析、統計分析及相關新鮮人職缺**。
 
-<!--
-**kuku0508/kuku0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 代表專案
 
-Here are some ideas to get you started:
+### [臺北 YouBike 路網與道路風險分析](https://github.com/kuku0508/YouBike-Road-Risk-Analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+這是一項結合大規模 YouBike 旅次、道路騎乘暴露量重建與交通事故資料的可重現分析專案。
+
+- 從 **109,713,899 筆**完整解析旅次開始建立資料處理流程
+- 建構包含 **2,782 個站點**與 **1,125,519 條有向邊**的 OD 網路
+- 完成 **1,100,919 條 BRouter 路徑重建**，估計道路微路段騎乘暴露量
+- 重建 **46,586 件事故實體**，並將 **39,711 件事故**正式配對至道路微路段
+- 應用網路分析、分群、地理空間配對、資料品質檢查與自動化測試
+- 完整記錄分析假設、排除狀態、研究限制與可重現性決策
+
+這項專案的目的，是利用資料縮小值得進一步檢視的道路範圍，而不是直接建立「臺北最危險道路」的排名。
+
+🌐 [查看完整作品集介紹](https://kuku0508.github.io/projects/youbike_sna/)
+
+## 技能與工具
+
+- **程式與資料處理：** Python、R、SQL、Pandas、NumPy、PyArrow、SQLite
+- **統計分析：** 回歸分析、分群、存活分析、模型診斷
+- **網路分析：** NetworkX、igraph、中心性指標、Louvain 社群偵測
+- **地理空間分析：** Shapely、PyProj、Folium、Leaflet、BRouter
+- **資料視覺化：** Matplotlib、ggplot2、互動式地圖
+- **分析工作流程：** 資料清理、資料品質驗證、Git、自動化測試、可重現分析
+
+## 我的分析原則
+
+我在意的不只是產出一張圖表或建立一個模型，也希望每一份分析都能做到：
+
+- **可追溯：** 清楚記錄重要假設、資料轉換與分析決策
+- **可重現：** 保留程式、設定、驗證紀錄與必要的資料指紋
+- **可解釋：** 說明結果的實務意義，同時交代限制
+- **謹慎面對不確定性：** 將資料支持的事實、合理推論與尚未確認的內容分開呈現
+
+## 個人網站與聯絡方式
+
+- 🌐 [個人網站](https://kuku0508.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hsu-chang/)
+- 📫 [Email](mailto:kuku050812@gmail.com)
+
+謝謝你來到這裡！歡迎瀏覽我的作品；如果想討論資料分析、統計方法或相關工作機會，也歡迎與我聯絡。
