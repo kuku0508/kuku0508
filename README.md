@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📊 Aspiring Data Analyst | Statistics Graduate
+📊 Statistics & Data Science Graduate | Data Analysis, Statistical Modeling & Reproducible Research
 
 ### 🌐 Links & Contact
 
