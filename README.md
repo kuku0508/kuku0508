@@ -47,8 +47,8 @@
 
 ## 個人網站與聯絡方式
 
-- 🌐 [個人網站](https://kuku0508.github.io)(https://kuku0508.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hsu-chang/)(https://www.linkedin.com/in/hsu-chang/)
-- 📫 [Email](mailto:kuku050812@gmail.com)(kuku050812@gmail.com)
+- 🌐 [個人網站](https://kuku0508.github.io)\(https://kuku0508.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hsu-chang/)\(https://www.linkedin.com/in/hsu-chang/)
+- 📫 [Email](mailto:kuku050812@gmail.com)\(kuku050812@gmail.com)
 
 謝謝你來到這裡！歡迎瀏覽我的作品；如果想討論資料分析、統計方法或相關工作機會，也歡迎與我聯絡。
