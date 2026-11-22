@@ -32,11 +32,11 @@
 - **程式與資料處理：** Python、R、SQL、Pandas、NumPy、PyArrow、SQLite
 - **統計分析：** 回歸分析、分群、存活分析、模型診斷
 - **網路分析：** NetworkX、igraph、中心性指標、Louvain 社群偵測
-- **地理空間分析：** Shapely、PyProj、Folium、Leaflet、BRouter
+- **地理空間分析：** Leaflet、BRouter
 - **資料視覺化：** Matplotlib、ggplot2、互動式地圖
-- **分析工作流程：** 資料清理、資料品質驗證、Git、自動化測試、可重現分析
+- **分析工作流程：** 資料清理、資料品質驗證、Git、可重現分析
 
-## 我的分析原則
+## 我的分析核心
 
 我在意的不只是產出一張圖表或建立一個模型，也希望每一份分析都能做到：
 
